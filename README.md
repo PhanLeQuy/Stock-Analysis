@@ -1,5 +1,10 @@
 # Stock-Analysis
 Stock Analysis Description
+
+- I sincerely apologize to viewers because the file size is too large to upload to GitHub (I tried compressing it but it didn't work). Therefore, I have uploaded the pbix file to Google Drive via this link:
+https://drive.google.com/drive/folders/1D4mKRx9OoUyOIGVbto0g38IHALfOcftg
+- I hope users have the best experience with this dashboard!
+
 I.    DESCRIPTION:
     This project was created and developed during my first journey of self-studying Power BI and this is also my FIRST PROJECT. In this project I used historical data of stock tickers of companies on both NASDAQ and NYSE exchanges and this dataset of stock tickers was recorded from 1970 - 2022. From there I decided to turn this raw dataset into a simple simulation of a regular stock trading dashboard.
     In the report, I have reproduced the basic information and indicators available on the stock market platform of the stock code such as closing price, highest/lowest price of the day, highest/lowest price in 52 weeks, total trading volume and percentage change compared to the previous day. Accompanying that is the core industry in which the stock code does business.
